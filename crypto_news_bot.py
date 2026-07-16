@@ -9,7 +9,7 @@ from flask import Flask
 # ==========================
 # CONFIG
 # ==========================
-BOT_TOKEN = os.environ.get("8756908212:AAFxcIAxNyvAL_AD_FEegKW4iHJKGJsGRiE", "")
+BOT_TOKEN = os.environ.get("8756908212:AAGyYCF5v6qPaHl8LFT8xnW3wRvEm9IBFLs", "")
 CHAT_ID = os.environ.get("8930580236", "")
 
 CHECK_INTERVAL_SECONDS = 15 * 60  # 15 minutes
